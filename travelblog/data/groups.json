@@ -1,0 +1,51 @@
+[
+    {
+        "id":"1",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    {
+        "id":"2",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    {
+        "id":"3",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    {
+        "id":"4",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    {
+        "id":"5",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    {
+        "id":"6",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    {
+        "id":"7",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    }
+]
