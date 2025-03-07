@@ -14,7 +14,7 @@ Here're some of the project's best features:
 *   Search & Explore: Users can explore different places by searching or browsing categories.
 
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>Installation Steps:</h2>
 
 <p>1. Clone the repository:</p>
 
@@ -29,6 +29,21 @@ cd client
 npm install
 ```
 
+<h2>Running the Application:</h2>
+
+<p>Frontend:</p>
+
+```
+cd client
+npx expo start
+```
+
+<p>Backend:</p>
+
+```
+cd server
+npm run start
+```
   
   
 <h2>💻 Built with</h2>
