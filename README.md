@@ -59,3 +59,8 @@ Technologies used in the project:
 *   Frontend: React Native
 *   Backend: Node.js, Nest.js
 *   Database: MongoDB
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/14-DRPYPSmtLWYjabrlSBa3pZvXVpi0di/view?usp=sharing)
+
