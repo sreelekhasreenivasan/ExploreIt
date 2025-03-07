@@ -1,0 +1,46 @@
+[
+    {
+        "id":"1",
+        "name":"Holiday Travel Agency",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-cqTiVqi4EFauTR-zZYp8ilSv3H885sM4w&s",
+        "rating":4.7,
+        "reviews":1450
+    },
+    
+        {
+            "id": "2",
+            "name": "Explorer's Getaway",
+            "image": "https://t4.ftcdn.net/jpg/03/19/74/61/360_F_319746107_n99b20pTyXt8xYJXQqVBI5dJVttUANFn.jpg",
+            "rating": 4.8,
+            "reviews": 1800
+        },
+        {
+            "id": "3",
+            "name": "Dream Destinations",
+            "image": "https://www.avikalp.com/cdn/shop/products/AWZ0337-3D-Large-European-Creative-Global-Travel-Cafe-Bar-Nostalgic-Theme-Mural-Travel-Agency_wallpaper2.jpg?v=1559477949",
+            "rating": 4.6,
+            "reviews": 1200
+        },
+        {
+            "id": "4",
+            "name": "Globetrotter Travels",
+            "image": "https://vishalinternational.in/wp-content/uploads/2023/05/Vishal-International.jpg",
+            "rating": 4.9,
+            "reviews": 2100
+        },
+        {
+            "id": "5",
+            "name": "Paradise Voyages",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRU6nYy_Vtd5AQf2h1Ij3yG5hQgfQ9XqPmA&s",
+            "rating": 4.7,
+            "reviews": 1700
+        },
+        {
+            "id": "6",
+            "name": "Adventure Seekers",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/011/840/207/small/travel-word-travel-concept-idea-photo.jpg",
+            "rating": 4.5,
+            "reviews": 1100
+        }
+    ]
+    

@@ -1,0 +1,147 @@
+[
+    {
+        "id":"1",
+        "name":"Tropical Paradise Resort",
+        "image":"https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description":"hdshhsdhdshdsjjdskdskdsksdlds",
+        "rating":"4.8",
+        "duration":"3",
+        "location":"Pacific Ocean",
+        "category":"Beaches"
+    },
+        {
+            "id": "2",
+            "name": "Mountain Escape Lodge",
+            "image": "https://w0.peakpx.com/wallpaper/248/220/HD-wallpaper-st-regis-resort-and-beach-bora-bora-polynesia-resort-reef-atoll-beach-mountain-lagoon-bora-bora-sand-south-polynesia-luxury-blue-hotel-exotic-islands-5-star-holiday-pacific-coral-escape.jpg",
+            "description": "A peaceful retreat in the mountains, perfect for nature lovers and hikers.",
+            "rating": "4.7",
+            "duration": "4",
+            "location": "Rocky Mountains",
+            "category": "Mountains"
+        },
+        {
+            "id": "3",
+            "name": "Luxury City Hotel",
+            "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "description": "An upscale hotel in the heart of the city with premium amenities and skyline views.",
+            "rating": "4.9",
+            "duration": "2",
+            "location": "New York City",
+            "category": "Cityscape"
+        },
+        {
+            "id": "4",
+            "name": "Desert Oasis Camp",
+            "image": "https://r1imghtlak.ibcdn.com/316665f6c6a411e59690001ec9b85d13.jpg?&output-quality=75&output-format=jpg",
+            "description": "Experience the beauty of the desert in a luxurious tented camp under the stars.",
+            "rating": "4.6",
+            "duration": "3",
+            "location": "Sahara Desert",
+            "category": "Desert"
+        },
+        {
+            "id": "5",
+            "name": "Lakeview Cabin",
+            "image": "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "description": "Cozy wooden cabin by the lake, ideal for fishing and relaxation.",
+            "rating": "4.5",
+            "duration": "3",
+            "location": "Lake Tahoe",
+            "category": "Lakeside"
+        },
+        {
+            "id": "6",
+            "name": "Tropical Island Getaway",
+            "image": "https://images.pexels.com/photos/2104151/pexels-photo-2104151.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "description": "A beautiful private island with crystal-clear waters and white sandy beaches.",
+            "rating": "4.9",
+            "duration": "5",
+            "location": "Maldives",
+            "category": "Beaches"
+        },
+        
+            {
+                "id": "7",
+                "name": "Santorini Island Retreat",
+                "image": "https://images.pexels.com/photos/358532/pexels-photo-358532.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "description": "Enjoy the stunning white and blue architecture with breathtaking sunset views.",
+                "rating": "4.8",
+                "duration": "4",
+                "location": "Santorini, Greece",
+                "category": "Islands"
+            },
+            {
+                "id": "8",
+                "name": "Bali Beachfront Villa",
+                "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "description": "Relax in a luxury beachfront villa with tropical vibes and lush greenery.",
+                "rating": "4.9",
+                "duration": "5",
+                "location": "Bali, Indonesia",
+                "category": "Islands"
+            },
+            {
+                "id": "9",
+                "name": "Yellowstone National Park Adventure",
+                "image": "https://images.pexels.com/photos/1130508/pexels-photo-1130508.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "description": "Explore geysers, wildlife, and scenic landscapes in America’s first national park.",
+                "rating": "4.7",
+                "duration": "4",
+                "location": "Wyoming, USA",
+                "category": "National Parks"
+            },
+            {
+                "id": "10",
+                "name": "Serengeti Safari Camp",
+                "image": "https://www.tanzania-experience.com/wp-content/uploads/2024/01/serengeti-national-park.jpg",
+                "description": "Witness the Great Migration and experience African wildlife up close.",
+                "rating": "4.9",
+                "duration": "6",
+                "location": "Serengeti, Tanzania",
+                "category": "National Parks"
+            },
+            {
+                "id": "11",
+                "name": "Machu Picchu Expedition",
+                "image": "https://qeswaexpedition.com/wp-content/uploads/2022/01/Valle-Sagrado-Y-Machu-Picchu-Expeditions.jpg",
+                "description": "Discover the ancient Incan city with breathtaking mountain views.",
+                "rating": "4.8",
+                "duration": "5",
+                "location": "Peru",
+                "category": "Historical Places"
+            },
+            {
+                "id": "12",
+                "name": "The Colosseum Tour",
+                "image": "https://images.pexels.com/photos/356998/pexels-photo-356998.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "description": "Step into the history of the Roman Empire in this world-famous amphitheater.",
+                "rating": "4.7",
+                "duration": "2",
+                "location": "Rome, Italy",
+                "category": "Historical Places"
+            },
+            {
+                "id": "13",
+                "name": "Great Wall of China Adventure",
+                "image": "https://images.pexels.com/photos/739407/pexels-photo-739407.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "description": "Walk along one of the greatest wonders of the world, filled with rich history.",
+                "rating": "4.9",
+                "duration": "3",
+                "location": "China",
+                "category": "Historical Places"
+            },
+            {
+                "id": "14",
+                "name": "Galápagos Islands Cruise",
+                "image": "https://images.pexels.com/photos/1322184/pexels-photo-1322184.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "description": "Encounter unique wildlife and pristine beaches on this once-in-a-lifetime trip.",
+                "rating": "5.0",
+                "duration": "7",
+                "location": "Ecuador",
+                "category": "Islands"
+            }
+        
+        
+    
+    
+]
