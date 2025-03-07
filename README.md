@@ -22,10 +22,16 @@ Here're some of the project's best features:
 git clone "repository-url"
 ```
 
-<p>2. Build and Start the application:</p>
+<p>2. Build client:</p>
 
 ```
 cd client
+npm install
+```
+<p>3. Build server:</p>
+
+```
+cd server
 npm install
 ```
 
